@@ -1,0 +1,13 @@
+package org.tom.ecocart;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EcocartApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(EcocartApplication.class, args);
+    }
+
+}
